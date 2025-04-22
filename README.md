@@ -16,5 +16,5 @@ Creative Commons CC BY-NC 4.0 – Open for adaptation in clinical, research, and
 
 📬 Contact
 
-Lead Author: Anwar Mohamed Email: ecssignalling@gmail.com.
+Lead Author: Anwar Mohamed Email: TeamMohamed@proton.me
 GitHub: TeamMohamed DOI: 10.5281/zenodo.15252119
